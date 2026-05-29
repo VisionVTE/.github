@@ -1,60 +1,42 @@
-# **VisionVT Entertainment** | A Little Entertainment Company
----
+# VisionVT Entertainment
 
-# 🤖 Artificial Intelligence
+## About Us
 
-AI is a big focus for us! 
+VisionVT Entertainment is a small studio that makes cool digital projects.
 
-We work on:
+We make:
 
-* AI assistants
-* Conversational systems
-* VTuber AI personalities 
-* Smart automation 
-* Interactive experiences 
+* 🎮 Games
+* 🌐 Websites
+* 🧩 Apps
+* 🤖 AI projects
 
-We aim to create engaging and creative AI!
+We like creating fun and creative things with technology.
 
 ---
 
-# 🚀 Our Vision
+## What We Do
 
-At VisionVT Entertainment, we explore digital creativity. 
+### 🎮 Games
 
-We believe games, AI, and online experiences are all connected. 
+We make game projects, multiplayer systems, and custom servers.
 
-Every project starts with imagination, whether small or huge!
+### 🌐 Websites
 
----
+We build websites and online tools for projects and communities.
 
-# 🛠 Technologies We Use
+### 🧩 Apps
 
-## Platforms & Systems
+We create small applications and useful software tools.
 
-* Linux 
-* Docker 
-* Cloud systems 
+### 🤖 AI
 
-## Development
-
-* Web technologies 
-* APIs 
-* Game server infrastructure 
+We work on AI assistants and other smart AI systems.
 
 ---
 
-# 📌 Current Focus
+## Our Goal
 
-We’re focused on:
+Our goal is to keep learning, building, and making awesome projects for people to enjoy.
 
-* AI-powered experiences 
-* Multiplayer systems 
-* Interactive entertainment 
-
----
-
-# 📫 Contact
-
-If you want to contact us, use "VisionVTBusiness@gmail.com"
-
-Stay tuned for more projects and releases!
+> “Create cool things and keep improving.”
