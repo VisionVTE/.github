@@ -1,4 +1,4 @@
-# VisionVT Entertainment
+# Vision Media Group
 
 ## About Us
 
