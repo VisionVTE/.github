@@ -2,7 +2,7 @@
 
 ## About Us
 
-VisionVT Entertainment is a small studio that makes cool digital projects.
+Vision Media Group is a small studio that makes cool digital projects.
 
 We make:
 
